@@ -551,4 +551,4 @@ to our applications.
 
 - [Nested Routes](https://reactrouter.com/en/main/start/tutorial#nested-routes)
 - [Outlet](https://reactrouter.com/en/main/components/outlet)
-- [useOutletContext](https://reactrouter.com/en/main/hooks/use-outlet-context)
+- [useOutletContext](https://reactrouter.com/en/main/hooks/use-outlet-context).
